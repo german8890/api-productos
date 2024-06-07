@@ -4,6 +4,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
+	"github.com/learnbasic/internal/adapters/http"
 	"github.com/learnbasic/internal/adapters/usecases"
 )
 
